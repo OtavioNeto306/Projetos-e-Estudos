@@ -1,2 +1,4 @@
-# Projetos-e-Estudos
-Repositório de estudos e projetos
+# Repositório de estudo
+
+Sumario:
+- Database Experience da Dio.
